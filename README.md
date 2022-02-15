@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on School Work
+- 🔭 I’m currently working on OGPC '22 Website representing THS
 - 🌱 I’m currently learning Web Development (Tailwind CSS, HTML & React, Typescript & Next.Js)
-- 🤔 I’m looking for help with everything, any help is appreciated.
+- 🤔 I’m looking to learn and expand my toolset
 - ⚡ Fun fact: lol
 
