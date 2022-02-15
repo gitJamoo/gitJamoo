@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on School Work
-- 🌱 I’m currently learning Web Development (Tailwind, HTML, Typescript)
+- 🌱 I’m currently learning Web Development (Tailwind CSS, HTML & React, Typescript & Next.Js)
 - 🤔 I’m looking for help with everything, any help is appreciated.
 - ⚡ Fun fact: lol
 
