@@ -7,3 +7,6 @@
 - ⚡ Fun fact: lol
 - 🎈 I use Windows 10/11 and VSCode
 
+<!--START_SECTION:activity-->
+
+
