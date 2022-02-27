@@ -25,10 +25,6 @@ OGPC '22 Website representing THS
 shinx bot
 ogpc website
 
-
+### My Recent Activity
 <!--START_SECTION:activity-->
-
-
-
-
 <!--END_SECTION:activity-->
