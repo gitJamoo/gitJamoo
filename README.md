@@ -19,4 +19,9 @@ OGPC '22 Website representing THS
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#10](https://github.com/gitJamoo/systemResetWebsite/issues/10) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+2. ❗️ Closed issue [#1](https://github.com/gitJamoo/systemResetWebsite/issues/1) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+3. 🗣 Commented on [#1](https://github.com/gitJamoo/systemResetWebsite/issues/1) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+4. ❗️ Opened issue [#1](https://github.com/gitJamoo/gitJamoo/issues/1) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
+5. ❗️ Opened issue [#9](https://github.com/gitJamoo/systemResetWebsite/issues/9) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
 <!--END_SECTION:activity-->
