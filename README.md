@@ -2,10 +2,13 @@
 
 
 - 🔭 I’m currently working on OGPC '22 Website representing THS
-- 🌱 I’m currently learning Web Development (Tailwind CSS, HTML & React, Typescript & Next.Js)
+- 🌱 I’m currently learning Web Development (Tailwind CSS, HTML & React,  & Next.Js)
 - 🤔 I’m looking to learn and expand my toolset
 - ⚡ Fun fact: lol
 - 🎈 I use Windows 10/11 and VSCode
+
+![JavaScript](javascript.svg)
+
 
 <!--START_SECTION:activity-->
 
