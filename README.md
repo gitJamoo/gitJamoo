@@ -7,8 +7,9 @@
 - ⚡ Fun fact: lol
 - 🎈 I use Windows 10/11 and VSCode
 
-![JavaScript](javascript.svg)
-
+<p align="center">
+  <img src="javascript.svg" width="350" title="hover text">
+</p>
 
 <!--START_SECTION:activity-->
 
