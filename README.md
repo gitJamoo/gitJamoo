@@ -8,7 +8,7 @@
 - 🎈 I use Windows 10/11 and VSCode
 
 <p align="center">
-  <img src="javascript.svg" width="350" title="hover text">
+  <img src="javascript.svg" width="20" title="hover text">
 </p>
 
 <!--START_SECTION:activity-->
