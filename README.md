@@ -27,4 +27,14 @@ ogpc website
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#9](https://github.com/gitJamoo/systemResetWebsite/issues/9) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+2. ❗️ Opened issue [#8](https://github.com/gitJamoo/systemResetWebsite/issues/8) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+3. ❗️ Opened issue [#7](https://github.com/gitJamoo/systemResetWebsite/issues/7) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+4. ❗️ Closed issue [#5](https://github.com/gitJamoo/systemResetWebsite/issues/5) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+5. ❗️ Opened issue [#6](https://github.com/gitJamoo/System-Reset-Website/issues/6) in [gitJamoo/System-Reset-Website](https://github.com/gitJamoo/System-Reset-Website)
+6. ❗️ Opened issue [#5](https://github.com/gitJamoo/System-Reset-Website/issues/5) in [gitJamoo/System-Reset-Website](https://github.com/gitJamoo/System-Reset-Website)
+7. ❗️ Opened issue [#4](https://github.com/gitJamoo/System-Reset-Website/issues/4) in [gitJamoo/System-Reset-Website](https://github.com/gitJamoo/System-Reset-Website)
+8. ❗️ Opened issue [#3](https://github.com/gitJamoo/System-Reset-Website/issues/3) in [gitJamoo/System-Reset-Website](https://github.com/gitJamoo/System-Reset-Website)
+9. ❗️ Opened issue [#2](https://github.com/gitJamoo/System-Reset-Website/issues/2) in [gitJamoo/System-Reset-Website](https://github.com/gitJamoo/System-Reset-Website)
+10. ❗️ Opened issue [#1](https://github.com/gitJamoo/systemResetWebsite/issues/1) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
 <!--END_SECTION:activity-->
