@@ -20,6 +20,11 @@ OGPC '22 Website representing THS
 ### How I spend my time
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### My Recent Activity
