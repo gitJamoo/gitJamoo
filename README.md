@@ -25,3 +25,5 @@ OGPC '22 Website representing THS
 4. ❗️ Opened issue [#1](https://github.com/gitJamoo/gitJamoo/issues/1) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
 5. ❗️ Opened issue [#9](https://github.com/gitJamoo/systemResetWebsite/issues/9) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
 <!--END_SECTION:activity-->
+
+<!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater)
