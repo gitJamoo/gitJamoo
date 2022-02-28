@@ -17,6 +17,11 @@ tailwind
 
 OGPC '22 Website representing THS
 
+### How I spend my time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#10](https://github.com/gitJamoo/systemResetWebsite/issues/10) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
