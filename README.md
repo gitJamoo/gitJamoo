@@ -23,7 +23,7 @@ OGPC '22 Website representing THS
 
 ```text
 JavaScript   53 mins         █████████████████████████   99.47 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
