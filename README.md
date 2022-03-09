@@ -38,4 +38,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 5. ❗️ Opened issue [#1](https://github.com/gitJamoo/gitJamoo/issues/1) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
 <!--END_SECTION:activity-->
 
-<!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater)
+<!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
