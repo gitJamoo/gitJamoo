@@ -40,5 +40,5 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
 
 <p align="center">
-![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)
+<src="http://ForTheBadge.com/images/badges/built-with-love.svg)">
 </p>
