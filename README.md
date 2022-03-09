@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2310C2F0&vCenter=true&lines=Hi%2C+I'm+James+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<university>
+<PRE><university></PRE>
 
 <!–– **<employment> looking for opportunites :)** ––>
  
