@@ -12,7 +12,6 @@
 vs code
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ### Currently working on
 
@@ -39,3 +38,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
+
+<p align="center">
+![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)
+</p>
