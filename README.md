@@ -42,4 +42,4 @@ JavaScript   50 mins         █████████████████
 <src="http://ForTheBadge.com/images/badges/built-with-love.svg)">
 </p>
 
-J🎯 S🐲
+J🎯s S🐲
