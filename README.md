@@ -29,11 +29,11 @@ JavaScript   15 mins         █████████████████
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
-2. ❗️ Opened issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
-3. ❗️ Opened issue [#10](https://github.com/gitJamoo/systemResetWebsite/issues/10) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
-4. ❗️ Closed issue [#1](https://github.com/gitJamoo/systemResetWebsite/issues/1) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
-5. 🗣 Commented on [#1](https://github.com/gitJamoo/systemResetWebsite/issues/1) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+1. ❗️ Opened issue [#13](https://github.com/gitJamoo/systemResetWebsite/issues/13) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+2. ❗️ Opened issue [#12](https://github.com/gitJamoo/systemResetWebsite/issues/12) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+3. ❗️ Opened issue [#11](https://github.com/gitJamoo/systemResetWebsite/issues/11) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
+4. ❗️ Closed issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
+5. ❗️ Opened issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
