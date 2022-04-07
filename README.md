@@ -22,7 +22,7 @@ OGPC '22 Website representing THS
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   40 mins         █████████████████████████   100.00 %
+JavaScript   54 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
