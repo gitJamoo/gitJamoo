@@ -22,7 +22,8 @@ OGPC '22 Website representing THS
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         38 mins         █████████████████████████   99.84 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
