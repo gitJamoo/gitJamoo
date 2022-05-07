@@ -30,11 +30,11 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/gitJamoo/systemResetWebsite/issues/13) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
-2. ❗️ Opened issue [#12](https://github.com/gitJamoo/systemResetWebsite/issues/12) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
-3. ❗️ Opened issue [#11](https://github.com/gitJamoo/systemResetWebsite/issues/11) in [gitJamoo/systemResetWebsite](https://github.com/gitJamoo/systemResetWebsite)
-4. ❗️ Closed issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
-5. ❗️ Opened issue [#2](https://github.com/gitJamoo/gitJamoo/issues/2) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
+1. ❗️ Closed issue [#2](https://github.com/TigardHighGDC/systemResetWebsite/issues/2) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
+2. ❗️ Closed issue [#13](https://github.com/TigardHighGDC/systemResetWebsite/issues/13) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
+3. ❗️ Closed issue [#12](https://github.com/TigardHighGDC/systemResetWebsite/issues/12) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
+4. ❗️ Closed issue [#10](https://github.com/TigardHighGDC/systemResetWebsite/issues/10) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
+5. ❗️ Closed issue [#9](https://github.com/TigardHighGDC/systemResetWebsite/issues/9) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
