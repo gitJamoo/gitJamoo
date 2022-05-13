@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&height=70&lines=Hi%2C+I'm+James+%F0%9F%91%8B;Currently+looking+for+work+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="instagram.com/jms.smh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)">
   </p>
