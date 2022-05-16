@@ -40,11 +40,11 @@ Other           0 secs          ░░░░░░░░░░░░░░░░
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/TigardHighGDC/systemResetWebsite/issues/11) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
-2. ❗️ Closed issue [#3](https://github.com/TigardHighGDC/systemResetWebsite/issues/3) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
-3. ❗️ Closed issue [#8](https://github.com/TigardHighGDC/systemResetWebsite/issues/8) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
-4. ❗️ Closed issue [#2](https://github.com/TigardHighGDC/systemResetWebsite/issues/2) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
-5. ❗️ Closed issue [#13](https://github.com/TigardHighGDC/systemResetWebsite/issues/13) in [TigardHighGDC/systemResetWebsite](https://github.com/TigardHighGDC/systemResetWebsite)
+1. 💪 Opened PR [#1](https://github.com/TigardHighComputerScience/.github/pull/1) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
+2. 🗣 Commented on [#1](https://github.com/TigardHighComputerScience/Discussions/issues/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+3. ❌ Reopened PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+4. ❌ Closed PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+5. 🗣 Commented on [#1](https://github.com/TigardHighComputerScience/Discussions/issues/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
