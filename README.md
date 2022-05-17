@@ -40,11 +40,11 @@ Other           0 secs          ░░░░░░░░░░░░░░░░
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/TigardHighComputerScience/.github/pull/2) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
-2. 💪 Opened PR [#1](https://github.com/TigardHighComputerScience/.github/pull/1) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
-3. 🗣 Commented on [#1](https://github.com/TigardHighComputerScience/Discussions/issues/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
-4. ❌ Reopened PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
-5. ❌ Closed PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+1. 💪 Opened PR [#1](https://github.com/Omega-Who/Omega-Who.github.io/pull/1) in [Omega-Who/Omega-Who.github.io](https://github.com/Omega-Who/Omega-Who.github.io)
+2. 💪 Opened PR [#2](https://github.com/TigardHighComputerScience/.github/pull/2) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
+3. 💪 Opened PR [#1](https://github.com/TigardHighComputerScience/.github/pull/1) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
+4. 🗣 Commented on [#1](https://github.com/TigardHighComputerScience/Discussions/issues/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+5. ❌ Reopened PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
