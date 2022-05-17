@@ -40,11 +40,11 @@ Other           0 secs          ░░░░░░░░░░░░░░░░
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Omega-Who/Omega-Who.github.io/pull/1) in [Omega-Who/Omega-Who.github.io](https://github.com/Omega-Who/Omega-Who.github.io)
-2. 💪 Opened PR [#2](https://github.com/TigardHighComputerScience/.github/pull/2) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
-3. 💪 Opened PR [#1](https://github.com/TigardHighComputerScience/.github/pull/1) in [TigardHighComputerScience/.github](https://github.com/TigardHighComputerScience/.github)
-4. 🗣 Commented on [#1](https://github.com/TigardHighComputerScience/Discussions/issues/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
-5. ❌ Reopened PR [#1](https://github.com/TigardHighComputerScience/Discussions/pull/1) in [TigardHighComputerScience/Discussions](https://github.com/TigardHighComputerScience/Discussions)
+1. ❗️ Opened issue [#6](https://github.com/gitJamoo/gitJamooDevBlog/issues/6) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+2. ❗️ Opened issue [#5](https://github.com/gitJamoo/gitJamooDevBlog/issues/5) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+3. ❗️ Opened issue [#4](https://github.com/gitJamoo/gitJamooDevBlog/issues/4) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+4. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamooDevBlog/issues/3) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+5. ❗️ Opened issue [#2](https://github.com/gitJamoo/gitJamooDevBlog/issues/2) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
