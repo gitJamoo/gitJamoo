@@ -21,7 +21,7 @@
 
 ### Currently working on
 
-[OGPC '22 Website](https://github.com/TigardHighGDC/TigardHighGDC.github.io) representing THS
+OSU eSports website
 
 ### How I spend my time
 
