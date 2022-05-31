@@ -21,7 +21,7 @@
 
 ### Currently working on
 
-OSU eSports website
+OSU Esports website
 
 ### How I spend my time
 
