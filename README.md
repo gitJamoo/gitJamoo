@@ -28,8 +28,8 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```text
-C++        10 mins         ██████████████████████▓░░   90.16 %
-Other      1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+C++     7 mins          ██████████████████████░░░   87.51 %
+Other   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
 ```
 
 <!--END_SECTION:waka-->
