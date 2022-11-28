@@ -35,7 +35,7 @@ No activity tracked
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/gitJamoo/gitJamooDevBlog/issues/6) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+1. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamoo/issues/3) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
 2. ❗️ Opened issue [#5](https://github.com/gitJamoo/gitJamooDevBlog/issues/5) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
 3. ❗️ Opened issue [#4](https://github.com/gitJamoo/gitJamooDevBlog/issues/4) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
 4. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamooDevBlog/issues/3) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
