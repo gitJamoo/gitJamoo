@@ -28,8 +28,7 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 15 mins    ████████████████████████░   95.72 %
-SSH Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+SSH Config   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
