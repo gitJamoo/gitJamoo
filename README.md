@@ -28,9 +28,11 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 58 mins    █████████████████████████   99.57 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+ActionScript 3   52 mins         █████████▒░░░░░░░░░░░░░░░   36.67 %
+JavaScript       52 mins         █████████░░░░░░░░░░░░░░░░   36.53 %
+Bash             14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Brainfuck        14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
