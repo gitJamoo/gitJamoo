@@ -28,11 +28,11 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 2 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
-JavaScript       53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-ActionScript 3   52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-YAML             16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Bash             14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+JavaScript       1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+Python           1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+ActionScript 3   54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+YAML             33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Docker           20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
