@@ -35,7 +35,7 @@ C   0 secs          ████████████████████
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamoo/issues/3) in [gitJamoo/gitJamoo](https://github.com/gitJamoo/gitJamoo)
+1. 💪 Opened PR [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
 2. ❗️ Opened issue [#5](https://github.com/gitJamoo/gitJamooDevBlog/issues/5) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
 3. ❗️ Opened issue [#4](https://github.com/gitJamoo/gitJamooDevBlog/issues/4) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
 4. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamooDevBlog/issues/3) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
