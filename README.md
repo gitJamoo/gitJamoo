@@ -37,11 +37,11 @@ Other   0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1#issuecomment-1990544494) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-2. ❌ Closed PR [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-3. 💪 Opened PR [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-4. ❗️ Opened issue [#3](https://github.com/gitJamoo/gitJamooDevBlog/issues/3) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
-5. ❗️ Opened issue [#2](https://github.com/gitJamoo/gitJamooDevBlog/issues/2) in [gitJamoo/gitJamooDevBlog](https://github.com/gitJamoo/gitJamooDevBlog)
+1. 🎉 Merged PR [#2](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/2) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+2. 🗣 Commented on [#6](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/6#issuecomment-2008299864) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+3. ❌ Reopened PR [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+4. 🗣 Commented on [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1#issuecomment-1990544494) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+5. ❌ Closed PR [#1](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/1) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
