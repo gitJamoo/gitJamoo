@@ -39,11 +39,11 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 
 ### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/15) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-2. 💪 Opened PR [#15](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/15) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-3. 🎉 Merged PR [#14](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/14) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-4. 💪 Opened PR [#14](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/14) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
-5. 🎉 Merged PR [#13](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/13) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+1. 🎉 Merged PR [#16](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/16) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+2. 🎉 Merged PR [#15](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/15) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+3. 💪 Opened PR [#15](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/15) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+4. 🎉 Merged PR [#14](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/14) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
+5. 💪 Opened PR [#14](https://github.com/OSU-CS362-W24/final-project-362finalproj/pull/14) in [OSU-CS362-W24/final-project-362finalproj](https://github.com/OSU-CS362-W24/final-project-362finalproj)
 <!--END_SECTION:activity-->
 
 <!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
