@@ -28,9 +28,8 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   5 mins          ██████████████████████▓░░   91.08 %
-Elm          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+SSH Config   5 mins          ███████████████████████▒░   92.86 %
+Elm          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
