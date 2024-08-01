@@ -28,7 +28,11 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 40 mins    ████████████████▒░░░░░░░░   64.93 %
+CSS          30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+JSON         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
