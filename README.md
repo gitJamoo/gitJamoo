@@ -28,8 +28,8 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Racket   1 hr 25 mins    █████████████████████████   99.92 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Racket   20 mins         █████████████████████████   99.66 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
