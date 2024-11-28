@@ -28,8 +28,10 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Racket   20 mins         █████████████████████████   99.66 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Prolog   1 hr 3 mins     █████████████████▓░░░░░░░   70.75 %
+Racket   20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Perl     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
