@@ -28,8 +28,8 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   47 mins         ███████████████████████░░   91.76 %
-Perl     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Prolog   35 mins         ██████████████████████▒░░   89.27 %
+Perl     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
 <!--END_SECTION:waka-->
