@@ -28,8 +28,7 @@ OSU Esports website
 <!--START_SECTION:waka-->
 
 ```txt
-Python   14 mins         ████████████████████████░   96.18 %
-Text     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
