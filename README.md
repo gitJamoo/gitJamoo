@@ -1,27 +1,16 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&height=70&lines=Hi%2C+I'm+James+%F0%9F%91%8B;Currently+looking+for+work+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://www.instagram.com/jms.smh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/james-smith-6913a2229"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://open.spotify.com/user/firecreeperjms?si=9pxXotqyTWircpJmwzRWgQ&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)"></a>
-  </p>
-
-### Languages & Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<a href="https://www.linkedin.com/in/james-m-smith-1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 
 ### Currently working on
 
-OSU Esports website
+- Envolvly
+- ResumAI
+- StuntCV
+- Coursework
+- Finding a job!
 
 ### How I spend my time
 
