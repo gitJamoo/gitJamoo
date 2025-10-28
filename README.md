@@ -6,11 +6,10 @@
   <strong><a href="https://j-m-s.dev/">Portfolio</a></strong>
 </p>
 
-
-
+<br><br>
 
 <p align="center">
-  <strong>My tech</strong>
+  <strong>My tech</strong><br>
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,c++,sqlite,dotnet,postman" height="40"/>
 </p>
 
