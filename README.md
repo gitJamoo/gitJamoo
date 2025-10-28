@@ -1,4 +1,8 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&height=70&lines=Hi%2C+I'm+James+%F0%9F%91%8B;Currently+looking+for+work+%F0%9F%92%BC)](https://git.io/typing-svg)
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
+</p>
+```
 
 <p align="center">
 <a href="https://www.linkedin.com/in/james-m-smith-1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
