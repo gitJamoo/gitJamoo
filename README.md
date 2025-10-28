@@ -10,6 +10,11 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,azure,docker,git,linux,figma,mysql,dotnet,postman" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitJamoo&theme=tokyonight" height="165"/>
+</p>
+
 ### Currently working on
 
 - Envolvly
