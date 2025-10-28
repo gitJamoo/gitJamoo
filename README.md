@@ -9,8 +9,8 @@
 
 
 
-### My tech
 <p align="center">
+  <strong>My tech</strong>
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,c++,sqlite,dotnet,postman" height="40"/>
 </p>
 
