@@ -3,13 +3,13 @@
 </p>
 
 <p align="center" font="bold">
-  <strong><a href="https://j-m-s.dev/">Portfolio</a></strong>
+  <strong>--> <a href="https://j-m-s.dev/">Portfolio</a> <--</strong>
 </p>
 
-<br><br>
+<br><br><br>
 
 <p align="center">
-  <strong>My tech</strong><br>
+  <strong>My tech</strong><br><br>
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,c++,sqlite,dotnet,postman" height="40"/>
 </p>
 
