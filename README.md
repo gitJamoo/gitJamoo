@@ -2,12 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
 </p>
 
+### My tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,c++,sqlite,dotnet,postman" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,c++,sqlite,dotnet,postman" height="40"/>
 </p>
 
-<p align="center">
-  # [Portfolio](https://j-m-s.dev/)
+<p align="center" font="bold">
+  <strong><a href="https://j-m-s.dev/">Portfolio</a></strong>
 </p>
 
 ### Currently...
