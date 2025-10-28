@@ -6,6 +6,10 @@
 <a href="https://www.linkedin.com/in/james-m-smith-1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,azure,docker,git,linux,figma,mysql,dotnet,postman" />
+</p>
+
 ### Currently working on
 
 - Envolvly
