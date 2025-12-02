@@ -2,42 +2,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
 </p>
 
-<p align="center" font="bold">
-  <strong>--> <a href="https://j-m-s.dev/">Portfolio</a> <--</strong>
+<p align="center">
+  <a href="https://j-m-s.dev/">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
-<br><br><br>
+<div align="center">
+  <h3>My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cpp" height="40" alt="Tech Stack"/>
+</div>
+
+<br />
+
+<h3 align="center">Currently Building & Exploring</h3>
 
 <p align="center">
-  <strong>My tech</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cpp" height="40"/>
+  🚀 Founder @ <a href="https://envolvly.com"><strong>Envolvly</strong></a><br>
+  🤖 AI Advisor @ <a href="https://advantage.oregonstate.edu/ai-bot-development"><strong>DRI-Genesis</strong></a><br>
+  🧠 ML + AI Intern @ <a href="https://bvrstco.com/"><strong>BVR ST CO</strong></a>
 </p>
-
-### Currently...
-
-- Founder @ [Envolvly](https://envolvly.com)
-- AI Advisor @ [DRI-Genesis](https://advantage.oregonstate.edu/ai-bot-development)
-- ML + AI Development Intern @ [BVR ST CO](https://bvrstco.com/)
-- And most importantly... **looking for a full-time new-grad role!**
-
-### How I spend my time
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<!-- using waka time, https://github.com/athul/waka-readme, shields, and profile activity updater, https://dev.to/envoy_/150-badges-for-github-pnk) -->
-
-
 
 <p align="center">
-<src="http://ForTheBadge.com/images/badges/built-with-love.svg)">
+  🎯 <strong>Active Job Seeker:</strong> Looking for Full-Time New Grad Roles!
 </p>
 
-J🎯s S🐲
+<br />
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
+
+-->
+
+<br />
+
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+</p>
+
+<p align="center">J🎯s S🐲</p>
