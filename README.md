@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>My tech</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cplusplus" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cpp" height="40"/>
 </p>
 
 ### Currently...
