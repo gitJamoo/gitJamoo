@@ -1,44 +1,45 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://j-m-s.dev/">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
 <div align="center">
-  <h3>My Tech Stack</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
+
+  <br/>
+  <p>
+    I am a developer bridging the gap between <strong>Full-Stack Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
+    Currently deploying ML models to production and building intuitive user experiences.
+  </p>
+
+  <a href="https://j-m-s.dev/">
+    <img src="https://img.shields.io/badge/View_Portfolio-222222?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio">
+  </a>
+
+  <br/><br/>
+
+  <h3>Toolbox</h3>
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cpp" height="40" alt="Tech Stack"/>
-</div>
 
-<br />
+  <br/><br/>
 
-<h3 align="center">Currently Building & Exploring</h3>
+  <table>
+    <tr>
+      <td align="center">🚀 <strong>Founder</strong><br>Envolvly</td>
+      <td align="center">🤖 <strong>AI Advisor</strong><br>DRI-Genesis</td>
+      <td align="center">🧠 <strong>ML Intern</strong><br>BVR ST CO</td>
+    </tr>
+  </table>
 
-<p align="center">
-  🚀 Founder @ <a href="https://envolvly.com"><strong>Envolvly</strong></a><br>
-  🤖 AI Advisor @ <a href="https://advantage.oregonstate.edu/ai-bot-development"><strong>DRI-Genesis</strong></a><br>
-  🧠 ML + AI Intern @ <a href="https://bvrstco.com/"><strong>BVR ST CO</strong></a>
-</p>
+  <br/>
 
-<p align="center">
-  🎯 <strong>Active Job Seeker:</strong> Looking for Full-Time New Grad Roles!
-</p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  </p>
 
-<br />
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
--->
-
-<br />
-
-<p align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-</p>
+  <p>J🎯s S🐲</p>
 
-<p align="center">J🎯s S🐲</p>
+</div>
