@@ -30,11 +30,11 @@
   <br/>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitJamoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
   </p>
 
   <br/>
