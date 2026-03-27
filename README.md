@@ -41,7 +41,7 @@
 
   | Project | Description | Stack |
   |---------|-------------|-------|
-  | [Envolvly](https://www.envolvly.com) | Full-stack startup · 1,000+ users | React · TypeScript · MongoDB · AWS |
+  | [Envolvly](https://www.envolvly.com) | Full-stack startup | React · TypeScript · MongoDB · AWS |
   | [COORDINATOR](https://getcoordinator.ai/) | Agentic AI for real-time sports strategy | NVIDIA · AutoGen · Next.js |
   | [OVERSEER](https://overseer-website.vercel.app) | Eye & posture accountability app | Rust · Tauri · OpenCV |
   | [StuntCV](https://github.com/gitJamoo/StuntCV) | 70-point body tracking per frame | Python · MediaPipe · OpenCV |
