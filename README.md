@@ -1,45 +1,62 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Explorer;Building+cool+things+since+200X" alt="Typing SVG" />
-
   <br/>
+
+  <h2>James M. Smith</h2>
+  <p>Machine Learning Engineer & Full-Stack Developer</p>
+
   <p>
-    I am a developer bridging the gap between <strong>Full-Stack Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
-    Currently deploying ML models to production and building intuitive user experiences.
+    <a href="https://j-m-s.dev">Website</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/james-m-smith1/">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:james.smith.tig@gmail.com">Email</a>
   </p>
 
-  <a href="https://j-m-s.dev/">
-    <img src="https://img.shields.io/badge/View_Portfolio-222222?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio">
-  </a>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,rust,docker,git,opencv,mongodb,aws,gcp,cpp" height="36" alt="Tech Stack"/>
 
   <br/><br/>
 
-  <h3>Toolbox</h3>
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,git,postman,cpp" height="40" alt="Tech Stack"/>
+  ---
+
+  **Oregon State University** — B.Sci. Computer Science & ML/AI · Minor in Cybersecurity · `2022–2026`
+
+  ---
+
+  <br/>
+
+  **Experience**
+
+  | Role | Company | Period |
+  |------|---------|--------|
+  | ML Intern | BVR ST CO | 2025–Present |
+  | AI Advisor | OSU DRI-Genesis | 2025–Present |
+  | Co-Founder | Envolvly | 2023–Present |
+  | ML Intern | Estée Lauder Companies | Summer 2025 |
+  | Programmer & Analyst | NJ Transit | Summer 2024 |
+  | SWE Intern | Hats & Ladders | Summer 2022 |
+
+  <br/>
+
+  **Projects**
+
+  | Project | Description | Stack |
+  |---------|-------------|-------|
+  | [Envolvly](https://www.envolvly.com) | Full-stack startup · 1,000+ users | React · TypeScript · MongoDB · AWS |
+  | [COORDINATOR](https://getcoordinator.ai/) | Agentic AI for real-time sports strategy | NVIDIA · AutoGen · Next.js |
+  | [OVERSEER](https://overseer-website.vercel.app) | Eye & posture accountability app | Rust · Tauri · OpenCV |
+  | [StuntCV](https://github.com/gitJamoo/StuntCV) | 70-point body tracking per frame | Python · MediaPipe · OpenCV |
+  | [OSU Genesis AI Hub](https://genesis.dev.oregonstate.edu/) | AI portal for OSU faculty | React · Node.js · GCP |
+  | [Wormhole](https://j-m-s.dev) | AI-generated portfolio — unique every visit | Next.js · TypeScript · Vercel |
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitJamoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Langs" />
 
   <br/><br/>
 
-  <table>
-    <tr>
-      <td align="center">🚀 <strong>Founder</strong><br>Envolvly</td>
-      <td align="center">🤖 <strong>AI Advisor</strong><br>DRI-Genesis</td>
-      <td align="center">🧠 <strong>ML Intern</strong><br>BVR ST CO</td>
-    </tr>
-  </table>
+  <sub>J🎯s S🐲</sub>
 
   <br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitJamoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-  </p>
-
-  <br/>
-
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <p>J🎯s S🐲</p>
-
 </div>
