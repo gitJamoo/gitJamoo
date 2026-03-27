@@ -50,10 +50,6 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gitJamoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitJamoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Langs" />
-
   <br/><br/>
 
   <sub>J🎯s S🐲</sub>
